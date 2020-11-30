@@ -1,5 +1,6 @@
 # Spring-Boot-And-React
- Full Stack Application
+ Full Stack Web Application
+ 
  What I have been work with: 
  
   -Backend with Spring Boot 2
